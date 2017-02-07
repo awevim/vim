@@ -5,7 +5,7 @@
 "                       (_)_/ |_|_| |_| |_|_|  \___|
 "
 " Author: 
-" Source: https://github.com/chxuan/vimplus
+" Source: https://github.com/supervimer/vim
 
 " genernal settings
 syntax enable
