@@ -131,6 +131,10 @@ Plugin 'vim-scripts/txt.vim'
 Plugin 'will133/vim-dirdiff'
 Plugin 'haya14busa/incsearch.vim'
 Plugin 'mhinz/vim-startify'
+"add by meng                                                                                                                
+Plugin 'xolox/vim-misc'
+Plugin 'xolox/vim-lua-ftplugin'
+Plugin 'tbastos/vim-lua'
 
 call vundle#end()            
 filetype plugin indent on    
